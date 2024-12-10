@@ -2,10 +2,10 @@
 
 ### Run
 1. Open your terminal and enter the following commands
-'''
+```
 source "/myenv/bin/activate"
 python3 chat.py
-'''
+```
 
 2. Navigate to your browser and open base.html
 3. Select the chatbot button in the bottom right corner of the screen
