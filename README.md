@@ -16,8 +16,8 @@ python3 chat.py
    - [ ] Navigate to [OpenAI API Keys](https://platform.openai.com/api-keys)
    - [ ] Login / Sign Up
    - [ ] Your profile > API keys > + Create new secret key
-   - [ ] After obtaining secret key, enter APIKEY = "{secret_key}" into constants.py, where {secret_key} is your secret key
-   - [x] Purchasing a model is required -- I'm using text-embedding-3-small (it's cheap)
+   - [ ] After obtaining secret key, enter ``` APIKEY = "{secret_key}" ``` into constants.py, where {secret_key} is your secret key
+   - [x] Purchasing a model is required -- _I'm using text-embedding-3-small (it's cheap)_
 2. Create file data.txt
     - This is where you will store your data, which is protected and private
     - Enter whatever information you would like the chatbot to be informed about
